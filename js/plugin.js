@@ -83,7 +83,7 @@ function editTask(id, text) {
 
 }
 
-num = editTask('1', 'Learn English');
+let num = editTask('1', 'Learn English');
 
 console.log(num);
 
